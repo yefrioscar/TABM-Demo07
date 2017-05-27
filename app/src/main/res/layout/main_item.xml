@@ -16,6 +16,10 @@
         android:orientation="vertical">
 
         <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:id="@+id/idpersona"/>
+        <TextView
             android:id="@+id/tvMainItemFullname"
             android:textSize="28sp"
             android:ellipsize="end"
